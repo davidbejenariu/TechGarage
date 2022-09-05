@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YoZnFi4ouCQtaulm5yv11k3+MbrrXGd7OsUFPoGBrXIoYd5Zay5gLdFPiOFdPNCq0Ps/F7QOlIFbNMjHk/9cMw==",
+  "dgSpecHash": "GYxF5ZmkkJVJMl2BYXhDTRUcqwBlmzMoB8WI1kbQjIALiJmJJtcI+TzZKvEJF42cjiYL/00MP4GCPcCT10AM/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.BLL\\site.BLL.csproj",
+  "projectFilePath": "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.BLL\\site.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

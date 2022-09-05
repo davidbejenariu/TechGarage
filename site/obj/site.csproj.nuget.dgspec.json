@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\Desktop\\DAW\\proiect\\site\\site.csproj": {}
+    "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site\\site.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.BLL\\site.BLL.csproj": {
+    "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.BLL\\site.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.BLL\\site.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.BLL\\site.BLL.csproj",
         "projectName": "site.BLL",
-        "projectPath": "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.BLL\\site.BLL.csproj",
+        "projectPath": "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.BLL\\site.BLL.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.BLL\\obj\\",
+        "outputPath": "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.DAL\\site.DAL.csproj": {
-                "projectPath": "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.DAL\\site.DAL.csproj"
+              "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.DAL\\site.DAL.csproj": {
+                "projectPath": "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.DAL\\site.DAL.csproj"
               }
             }
           }
@@ -110,14 +110,14 @@
         }
       }
     },
-    "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.DAL\\site.DAL.csproj": {
+    "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.DAL\\site.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.DAL\\site.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.DAL\\site.DAL.csproj",
         "projectName": "site.DAL",
-        "projectPath": "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.DAL\\site.DAL.csproj",
+        "projectPath": "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.DAL\\site.DAL.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.DAL\\obj\\",
+        "outputPath": "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -212,14 +212,14 @@
         }
       }
     },
-    "C:\\Users\\david\\Desktop\\DAW\\proiect\\site\\site.csproj": {
+    "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site\\site.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Desktop\\DAW\\proiect\\site\\site.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site\\site.csproj",
         "projectName": "site",
-        "projectPath": "C:\\Users\\david\\Desktop\\DAW\\proiect\\site\\site.csproj",
+        "projectPath": "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site\\site.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Desktop\\DAW\\proiect\\site\\obj\\",
+        "outputPath": "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -240,11 +240,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.BLL\\site.BLL.csproj": {
-                "projectPath": "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.BLL\\site.BLL.csproj"
+              "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.BLL\\site.BLL.csproj": {
+                "projectPath": "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.BLL\\site.BLL.csproj"
               },
-              "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.DAL\\site.DAL.csproj": {
-                "projectPath": "C:\\Users\\david\\Desktop\\DAW\\proiect\\site.DAL\\site.DAL.csproj"
+              "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.DAL\\site.DAL.csproj": {
+                "projectPath": "C:\\Users\\david\\Documents\\GitHub\\TechGarage\\site.DAL\\site.DAL.csproj"
               }
             }
           }
